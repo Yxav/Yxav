@@ -11,10 +11,11 @@
   <img align="center" alt="xav-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="xav-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="xav-Adonis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
-  <img align="center" alt="xav-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
   <img align="center" alt="xav-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="xav-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+   <img align="center" alt="xav-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
+
+ </div>
 
   
   ##
